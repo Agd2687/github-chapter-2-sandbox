@@ -1,1 +1,1 @@
-get checkout
+gitcheckout
